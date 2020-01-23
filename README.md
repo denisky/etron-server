@@ -10,6 +10,9 @@ https://github.com/ilyagru/Space-Snake?ref=madewithvuejs.com
 # etron-server-blazor
 
 # References
+## Canvas
+https://dev.to/azure/creating-dev-s-offline-page-using-blazor-29dl
+
 ## Chat
 https://github.com/conficient/BlazorChatSample
 
