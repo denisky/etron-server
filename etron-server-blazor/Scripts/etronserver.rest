@@ -1,0 +1,5 @@
+# @name version
+GET https://localhost:5001/api/version HTTP/1.1
+
+### @name games
+GET https://localhost:5001/api/v1/games/2716bd56-3eef-4dcd-a1f0-c84b4b7fb4b0 HTTP/1.1

@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace etron_server_blazor.Data
+namespace EtronServer.Data
 {
     public class WeatherForecastService
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace etron_server_blazor.Data
+namespace EtronServer.Data
 {
     public class WeatherForecast
     {
